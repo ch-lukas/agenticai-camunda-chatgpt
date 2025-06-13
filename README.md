@@ -260,7 +260,7 @@ ChatGPT is impressively robust. Try entering a **misspelt** country name like `E
 
 # 4. Exercise - Build an Automated Claims Process
 
-🌟 *Coming up next: A hands-on walkthrough of an Insurance Claim process utilising Visio AI, NLP, Gen AI and most importantly - automated reasoning.*
+🌟 *Coming up next: A hands-on walkthrough of an Insurance Claim process utilising Vision AI, NLP, Gen AI and most importantly - automated reasoning.*
 
 ---
 
