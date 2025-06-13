@@ -1,0 +1,58 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+.temp
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# VS Code settings
+.vscode/
+
+# Node.js dependencies (if used)
+node_modules/
+
+# Python cache (if used in scripts)
+__pycache__/
+*.py[cod]
+
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# Logs
+*.log
+
+# Environment and config files
+.env
+*.env.local
+
+# Camunda temp files
+.camunda/
+
+# JetBrains IDEs
+.idea/
+
+# OS junk
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Git ignore template for Camunda + Mac users

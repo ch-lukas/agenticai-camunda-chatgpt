@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Which country do you want to get the capital for?",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0yh6m8c",
+        "columns": null
+      },
+      "id": "Field_1a7r3y5",
+      "key": "textfield_m3vl5"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0ucs6nw",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.6.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.35.0"
+  },
+  "schemaVersion": 18
+}

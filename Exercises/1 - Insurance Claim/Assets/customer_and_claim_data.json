@@ -1,0 +1,66 @@
+{
+    "customer": {
+      "id": "CUST123456",
+      "name": "Jane Smith",
+      "dob": "1985-06-15",
+      "email": "jane.smith@example.com",
+      "phone": "+353 86 123 4567",
+      "address": {
+        "line1": "12 Oak Avenue",
+        "line2": "Castleknock",
+        "city": "Dublin",
+        "postcode": "D15 ABC1",
+        "country": "Ireland"
+      },
+      "license": {
+        "number": "IRL12345678",
+        "type": "Full",
+        "issue_date": "2003-08-12"
+      }
+    },
+    "vehicle": {
+      "registration_number": "151D12345",
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "year": 2017,
+      "colour": "Black",
+      "vin": "1G1BE5SM5H7212345",
+      "insurance_policy": {
+        "policy_number": "POL987654321",
+        "provider": "Aviva Insurance Ireland",
+        "start_date": "2024-08-01",
+        "end_date": "2026-07-31",
+        "cover_type": "Comprehensive"
+      }
+    },
+    "claim_history": [
+      {
+        "claim_id": "CLM001",
+        "date_of_incident": "2022-11-22",
+        "type": "Rear-end collision",
+        "fault": "true",
+        "damage_cost": 2700,
+        "images": [],
+        "status": "Settled"
+      }
+    ],
+    "claim_new": [
+      {
+        "claim_id": "CLM002",
+        "date_of_incident": "2025-06-01",
+        "status": "new",
+        "images": [
+          {
+            "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/cicada-crash-cinci-03.jpeg?resize=1536,1024&quality=75&strip=all"
+          },
+          {
+            "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/cicada-crash-cinci-02.jpeg?quality=75&strip=all"
+          }
+        ]
+      }
+    ],
+    "claim_processing_rules": {
+      "rule1": "Must have a clean claim history for 1 year preceding any new claims."
+    }
+  }
+  
