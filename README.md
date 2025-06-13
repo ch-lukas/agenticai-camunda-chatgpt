@@ -31,7 +31,7 @@ By the end of this session, you'll have built a simplified insurance claims proc
 
 **LinkedIn:** [linkedin.com/in/lukeaudie](https://www.linkedin.com/in/lukeaudie/)
 
-Luke is a transformational technologist with 15+ years of experience spanning the UK, Europe, and Australia. He specialises in business architecture, automation, and solution design across industries like financial services, public sector, and telecommunications. Having held senior roles at UiPath, Red Hat (IBM), and Software AG, Luke combines deep technical expertise with strategic leadership, enabling organisations to modernise legacy systems and leverage AI for process optimisation.
+Luke is a transformational technologist with 15+ years of experience spanning the UK, Europe, and Australia. He specialises in business architecture, automation, and solution design across industries like financial services, public sector, and telecommunications. Having held senior roles at leading consulting and tech firms, Luke combines deep technical expertise with strategic leadership, enabling organisations to modernise legacy processes with fresh new ways of working.
 
 ---
 
