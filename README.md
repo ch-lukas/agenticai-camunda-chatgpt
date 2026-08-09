@@ -7,7 +7,7 @@ By the end of this session, you'll have built a simplified insurance claims proc
 * Image classification using ChatGPT
 * Image-to-text conversion
 * Contextual summarisation with GenAI
-* Retrieval-Augmented Generation (RAG) for business rule alignment
+* Business rule alignment via a placeholder step (kept deliberately simple; a full Retrieval-Augmented Generation (RAG) implementation is out of scope for this tutorial)
 * Automated decision-making (i.e. *inference* — the “A” in Agentic AI)
 
 ![Tutorial](<Assets/Tutorial Overview.gif>)
@@ -272,7 +272,7 @@ It includes four key steps:
 
 1. **Analyse Claim Image** — uses AI vision to analyse the submitted image.
 2. **Match Image to Registered Vehicle** — compares extracted image data to the client's vehicle records.
-3. **Import Processing Rule** — placeholder to simulate policy/business rule alignment.
+3. **Import Processing Rule** — a placeholder standing in for policy/business rule alignment. A full Retrieval-Augmented Generation (RAG) implementation is intentionally out of scope, to keep the tutorial simple.
 4. **Decide on Claim** — evaluates all data to approve or reject the claim.
 
 N.B. When orchestrated together, these components showcase the true power of Agentic AI for straight-through-processing.
